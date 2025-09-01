@@ -37,38 +37,6 @@ hr {
   border-color: brown;
 }
 
-
-.bottom-line {
-  margin-top: 25px;
-}
-
-h1, h2 {
-  font-family: Impact, serif;
-}
-
-.item p {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
-}
-
-.bottom-line {
-  margin-top: 25px;
-}
-
-h1, h2 {
-  font-family: Impact, serif;
-}
-
-.item p {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
-}
-}
-
 .bottom-line {
   margin-top: 25px;
 }
@@ -95,7 +63,6 @@ h1, h2 {
 }
 
 /* FOOTER */
-
 footer {
   font-size: 14px;
 }
